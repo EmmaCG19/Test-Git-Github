@@ -1,0 +1,7 @@
+C:\Users\emman\Desktop\Alumni\Generics\bin\Debug\Generics.exe.config
+C:\Users\emman\Desktop\Alumni\Generics\bin\Debug\Generics.exe
+C:\Users\emman\Desktop\Alumni\Generics\bin\Debug\Generics.pdb
+C:\Users\emman\Desktop\Alumni\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\emman\Desktop\Alumni\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\emman\Desktop\Alumni\Generics\obj\Debug\Generics.exe
+C:\Users\emman\Desktop\Alumni\Generics\obj\Debug\Generics.pdb
